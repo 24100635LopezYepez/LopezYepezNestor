@@ -1,9 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace TEC_03_Pila
 {
     internal class Pila<Tipo>
@@ -83,6 +77,7 @@ namespace TEC_03_Pila
 
         }
 
+        //Atributo que determina si esta vacía
         public bool Vacia
         {
             get
@@ -94,14 +89,16 @@ namespace TEC_03_Pila
             }
         }
 
+        //Para saber si se encuentra algo que se requiera
         public bool Buscar(Tipo busqueda)
         {
             bool blnEncontrado = false;
-            if (EstaVacia()) return (false);
+            if (EstaVacia()) blnEncontrado = false;
             else
             {
-                for (int i = 0; i <= intTope; i++)
+                for (int i = 0; i <= intTope; i++) //Recorriendo toda el arreglo
                 {
+                    //Si se encuentra lo que se busca, true, sino, false
                     if (Arreglo[i].Equals(busqueda)) blnEncontrado = true;
                     else blnEncontrado = false;
                 }
@@ -109,6 +106,7 @@ namespace TEC_03_Pila
             return blnEncontrado;
         }
 
+        //Borrar el arreglo y las configuraciones
         public void Vaciar()
         {
             intTope = -1;
@@ -117,9 +115,11 @@ namespace TEC_03_Pila
             
         }
 
+        //Destructor, borrando todo
         ~Pila()
         {
             Vaciar();
         }
     }
+
 }
