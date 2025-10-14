@@ -13,6 +13,19 @@ namespace TEC_03_Pila
             Arreglo = new Tipo[intMax];
         }
 
+        public int Max
+        {
+            get { return intMax; }
+            private set { intMax = value; }
+        }
+
+        public int Tope
+        {
+            get { return intTope; }
+            private set { intTope = value; }
+        }
+
+
         //Metodo de determinar pila llena.
         private bool EstaLlena()
         {
@@ -77,7 +90,6 @@ namespace TEC_03_Pila
 
         }
 
-        //Atributo que determina si esta vacía
         public bool Vacia
         {
             get
@@ -89,16 +101,14 @@ namespace TEC_03_Pila
             }
         }
 
-        //Para saber si se encuentra algo que se requiera
         public bool Buscar(Tipo busqueda)
         {
             bool blnEncontrado = false;
-            if (EstaVacia()) blnEncontrado = false;
+            if (EstaVacia()) return (false);
             else
             {
-                for (int i = 0; i <= intTope; i++) //Recorriendo toda el arreglo
+                for (int i = 0; i <= intTope; i++)
                 {
-                    //Si se encuentra lo que se busca, true, sino, false
                     if (Arreglo[i].Equals(busqueda)) blnEncontrado = true;
                     else blnEncontrado = false;
                 }
@@ -106,16 +116,13 @@ namespace TEC_03_Pila
             return blnEncontrado;
         }
 
-        //Borrar el arreglo y las configuraciones
-        public void Vaciar()
+        public void Vaciar() 
         {
             intTope = -1;
             intMax = 0;
             Arreglo = null;
-            
         }
 
-        //Destructor, borrando todo
         ~Pila()
         {
             Vaciar();
@@ -123,3 +130,4 @@ namespace TEC_03_Pila
     }
 
 }
+
