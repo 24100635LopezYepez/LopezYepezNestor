@@ -1,12 +1,12 @@
 namespace TEC_03_Pila
 {
-    internal class Pila<Tipo>
+    internal class Pila<Tipo> //Clase parametrizada para su versatilidad
     {
-        private int intMax;
-        private int intTope;
-        private Tipo[] Arreglo;
+        private int intMax; //El tamaño del arreglo
+        private int intTope; //El ultimo de la pila
+        private Tipo[] Arreglo; //Para guardar los datos
 
-        public Pila(int intTamanio)
+        public Pila(int intTamanio) //Constructor asegurarndo que se provee el tamaño del arreglo para guardar la info.
         {
             intTope = 0;
             intMax = intTamanio;
@@ -90,6 +90,7 @@ namespace TEC_03_Pila
 
         }
 
+        //propiedad para saber si esta vacia
         public bool Vacia
         {
             get
@@ -116,18 +117,19 @@ namespace TEC_03_Pila
             return blnEncontrado;
         }
 
-        public void Vaciar() 
+        public void Vaciar() //Borrar todos los datos guardados.
         {
             intTope = -1;
             intMax = 0;
             Arreglo = null;
         }
 
-        ~Pila()
+        ~Pila() //Destructor asegurandose de borrar todo.
         {
             Vaciar();
         }
     }
 
 }
+
 
