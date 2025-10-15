@@ -1,23 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace TEC_04b_Palindromo
 {
-    internal class Pila<Tipo>
+    internal class Pila<Tipo> //Clase parametrizada para su versatilidad
     {
-        private int intMax;
-        private int intTope;
-        private Tipo[] Arreglo;
+        private int intMax; //El tamaño del arreglo
+        private int intTope; //El ultimo de la pila
+        private Tipo[] Arreglo; //Para guardar los datos
 
-        public Pila(int intTamanio)
+        public Pila(int intTamanio) //Constructor asegurarndo que se provee el tamaño del arreglo para guardar la info.
         {
             intTope = 0;
             intMax = intTamanio;
             Arreglo = new Tipo[intMax];
         }
+
+        public int Max
+        {
+            get { return intMax; }
+            private set { intMax = value; }
+        }
+
+        public int Tope
+        {
+            get { return intTope; }
+            private set { intTope = value; }
+        }
+
 
         //Metodo de determinar pila llena.
         private bool EstaLlena()
@@ -53,10 +60,8 @@ namespace TEC_04b_Palindromo
                 intTope--;
                 return Arreglo[intTope]; // Devolver valor correcto.
             }
-            else
-            {
-                throw new Exception("La pila está vacía"); // Devuelve un "error".
-            }
+            else throw new Exception("La pila está vacía"); // Devuelve un "error".
+            
         }
 
         //Mostrar datos
@@ -67,11 +72,9 @@ namespace TEC_04b_Palindromo
             {
                 for (int i = 0; i <= intTope; i++)
                 {
-
                     strResultado = strResultado + "\n [" + i.ToString() + "] -> " + Arreglo[i].ToString();
                     strResultado = strResultado + "\n \n Top =" + intTope.ToString() + "\n";
                     strResultado = strResultado + "\n Max " + intMax.ToString();
-
                 }
                 return strResultado;
             }
@@ -83,6 +86,7 @@ namespace TEC_04b_Palindromo
 
         }
 
+        //propiedad para saber si esta vacia
         public bool Vacia
         {
             get
@@ -109,14 +113,14 @@ namespace TEC_04b_Palindromo
             return blnEncontrado;
         }
 
-        public void Vaciar() 
+        public void Vaciar() //Borrar todos los datos guardados.
         {
             intTope = -1;
             intMax = 0;
             Arreglo = null;
         }
 
-        ~Pila()
+        ~Pila() //Destructor asegurandose de borrar todo.
         {
             Vaciar();
         }
