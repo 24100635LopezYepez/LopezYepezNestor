@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\bin\Debug\net8.0\TEC_04a_Sintaxis.exe
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\bin\Debug\net8.0\TEC_04a_Sintaxis.deps.json
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\bin\Debug\net8.0\TEC_04a_Sintaxis.runtimeconfig.json
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\bin\Debug\net8.0\TEC_04a_Sintaxis.dll
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\bin\Debug\net8.0\TEC_04a_Sintaxis.pdb
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.AssemblyInfo.cs
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.sourcelink.json
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.dll
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\refint\TEC_04a_Sintaxis.dll
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.pdb
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\TEC_04a_Sintaxis.genruntimeconfig.cache
+C:\Users\lopez\source\repos\TEC_04a_Sintaxis\obj\Debug\net8.0\ref\TEC_04a_Sintaxis.dll
