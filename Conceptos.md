@@ -24,6 +24,6 @@ Es una estructura de 'dato' que consiste en
 ![Imagen](./Wep_Hydrant_Wellstring.png)  
 [Google](https://www.google.com/)  
 
-  '''js
+  ---
   console.log("Hola Mundo");
-  '''
+  ---
