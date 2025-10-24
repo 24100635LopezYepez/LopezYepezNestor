@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\TEC_05_XML\bin\Debug\net8.0\TEC_05_XML.exe
+C:\Users\lopez\source\repos\TEC_05_XML\bin\Debug\net8.0\TEC_05_XML.deps.json
+C:\Users\lopez\source\repos\TEC_05_XML\bin\Debug\net8.0\TEC_05_XML.runtimeconfig.json
+C:\Users\lopez\source\repos\TEC_05_XML\bin\Debug\net8.0\TEC_05_XML.dll
+C:\Users\lopez\source\repos\TEC_05_XML\bin\Debug\net8.0\TEC_05_XML.pdb
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.AssemblyInfo.cs
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.sourcelink.json
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.dll
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\refint\TEC_05_XML.dll
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.pdb
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\TEC_05_XML.genruntimeconfig.cache
+C:\Users\lopez\source\repos\TEC_05_XML\obj\Debug\net8.0\ref\TEC_05_XML.dll
