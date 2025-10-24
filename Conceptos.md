@@ -140,15 +140,15 @@ Un Conjunto es una colección no ordenada de elementos únicos. El concepto se b
    -   
 **Aplicaciones:** Filtrado de duplicados, prueba de membresía eficiente, modelado de relaciones únicas, entre otras mas.
 
-##4. Diccionarios (Dictionaries / Maps)
+## 4. Diccionarios (Dictionaries / Maps)  
 Un Diccionario (también conocido como Mapa, Tabla Hash o Arreglo Asociativo) es una estructura de datos que almacena datos en forma de pares de clave-valor (key-value).  
   
-Características Clave  
+**Características Clave**
 - Clave-Valor: Cada valor está asociado y se accede a través de una clave única.  
 - Clave Única: Las claves deben ser únicas (al igual que los elementos en un conjunto). Si se intenta insertar una clave existente, generalmente se sobrescribe el valor anterior.  
 - Acceso por Clave: El acceso a los datos no se realiza por un índice numérico, sino por el valor de la clave.Eficiencia: Los diccionarios se implementan casi siempre utilizando tablas hash. Esto permite que las operaciones fundamentales de inserción, eliminación y búsqueda tengan una complejidad de tiempo promedio de $O(1)$ (tiempo constante), lo que las hace excepcionalmente rápidas para grandes volúmenes de datos.  
   
-Estructura y Funcionamiento 
+**Estructura y Funcionamiento**
 - Función Hash (Hashing): Cuando se inserta un par (Clave, Valor), la clave se pasa a través de una función hash. Esta función calcula un índice (dirección) dentro de un arreglo interno.  
 - Almacenamiento: El valor se almacena en el índice calculado.Colisiones: Si dos claves diferentes producen el mismo índice (una colisión), se utilizan técnicas como encadenamiento (almacenar los elementos conflictivos en una lista enlazada en esa dirección) o sondeo lineal (buscar la siguiente posición vacía) para resolver el conflicto.
 **Aplicaciones:** Contadores de frecuencia, almacenamiento de configuraciones de usuario, implementación de bases de datos indexadas y almacenamiento de propiedades de objetos en muchos lenguajes de programación.
