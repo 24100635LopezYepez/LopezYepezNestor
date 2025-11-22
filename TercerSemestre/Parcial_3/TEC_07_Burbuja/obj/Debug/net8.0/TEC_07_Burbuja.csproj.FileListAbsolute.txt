@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\TEC_07_Burbuja\bin\Debug\net8.0\TEC_07_Burbuja.exe
+C:\Users\lopez\source\repos\TEC_07_Burbuja\bin\Debug\net8.0\TEC_07_Burbuja.deps.json
+C:\Users\lopez\source\repos\TEC_07_Burbuja\bin\Debug\net8.0\TEC_07_Burbuja.runtimeconfig.json
+C:\Users\lopez\source\repos\TEC_07_Burbuja\bin\Debug\net8.0\TEC_07_Burbuja.dll
+C:\Users\lopez\source\repos\TEC_07_Burbuja\bin\Debug\net8.0\TEC_07_Burbuja.pdb
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.AssemblyInfo.cs
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.sourcelink.json
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.dll
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\refint\TEC_07_Burbuja.dll
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.pdb
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\TEC_07_Burbuja.genruntimeconfig.cache
+C:\Users\lopez\source\repos\TEC_07_Burbuja\obj\Debug\net8.0\ref\TEC_07_Burbuja.dll
