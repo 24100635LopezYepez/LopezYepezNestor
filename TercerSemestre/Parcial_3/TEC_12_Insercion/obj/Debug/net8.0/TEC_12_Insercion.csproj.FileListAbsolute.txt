@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\TEC_12_Insercion\bin\Debug\net8.0\TEC_12_Insercion.exe
+C:\Users\lopez\source\repos\TEC_12_Insercion\bin\Debug\net8.0\TEC_12_Insercion.deps.json
+C:\Users\lopez\source\repos\TEC_12_Insercion\bin\Debug\net8.0\TEC_12_Insercion.runtimeconfig.json
+C:\Users\lopez\source\repos\TEC_12_Insercion\bin\Debug\net8.0\TEC_12_Insercion.dll
+C:\Users\lopez\source\repos\TEC_12_Insercion\bin\Debug\net8.0\TEC_12_Insercion.pdb
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.AssemblyInfo.cs
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.sourcelink.json
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.dll
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\refint\TEC_12_Insercion.dll
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.pdb
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\TEC_12_Insercion.genruntimeconfig.cache
+C:\Users\lopez\source\repos\TEC_12_Insercion\obj\Debug\net8.0\ref\TEC_12_Insercion.dll
