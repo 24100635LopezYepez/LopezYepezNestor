@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\TEC_11_QuickSort\bin\Debug\net8.0\TEC_11_QuickSort.exe
+C:\Users\lopez\source\repos\TEC_11_QuickSort\bin\Debug\net8.0\TEC_11_QuickSort.deps.json
+C:\Users\lopez\source\repos\TEC_11_QuickSort\bin\Debug\net8.0\TEC_11_QuickSort.runtimeconfig.json
+C:\Users\lopez\source\repos\TEC_11_QuickSort\bin\Debug\net8.0\TEC_11_QuickSort.dll
+C:\Users\lopez\source\repos\TEC_11_QuickSort\bin\Debug\net8.0\TEC_11_QuickSort.pdb
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.AssemblyInfo.cs
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.sourcelink.json
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.dll
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\refint\TEC_11_QuickSort.dll
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.pdb
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\TEC_11_QuickSort.genruntimeconfig.cache
+C:\Users\lopez\source\repos\TEC_11_QuickSort\obj\Debug\net8.0\ref\TEC_11_QuickSort.dll
