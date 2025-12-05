@@ -1,0 +1,14 @@
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\bin\Debug\net8.0\TEC_10_Recursivo.exe
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\bin\Debug\net8.0\TEC_10_Recursivo.deps.json
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\bin\Debug\net8.0\TEC_10_Recursivo.runtimeconfig.json
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\bin\Debug\net8.0\TEC_10_Recursivo.dll
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\bin\Debug\net8.0\TEC_10_Recursivo.pdb
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\TEC_10_Recursivo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\TEC_10_Recursivo.AssemblyInfoInputs.cache
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\TEC_10_Recursivo.AssemblyInfo.cs
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\TEC_10_Recursivo.csproj.CoreCompileInputs.cache
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\TEC_10_Recursivo.dll
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\refint\TEC_10_Recursivo.dll
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\TEC_10_Recursivo.pdb
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\TEC_10_Recursivo.genruntimeconfig.cache
+E:\Semestre 1\Fundamentos\10_TEC_Recursivo\obj\Debug\net8.0\ref\TEC_10_Recursivo.dll
