@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\TEC_13_Secuencial\bin\Debug\net8.0\TEC_13_Secuencial.exe
+C:\Users\lopez\source\repos\TEC_13_Secuencial\bin\Debug\net8.0\TEC_13_Secuencial.deps.json
+C:\Users\lopez\source\repos\TEC_13_Secuencial\bin\Debug\net8.0\TEC_13_Secuencial.runtimeconfig.json
+C:\Users\lopez\source\repos\TEC_13_Secuencial\bin\Debug\net8.0\TEC_13_Secuencial.dll
+C:\Users\lopez\source\repos\TEC_13_Secuencial\bin\Debug\net8.0\TEC_13_Secuencial.pdb
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.AssemblyInfo.cs
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.sourcelink.json
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.dll
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\refint\TEC_13_Secuencial.dll
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.pdb
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\TEC_13_Secuencial.genruntimeconfig.cache
+C:\Users\lopez\source\repos\TEC_13_Secuencial\obj\Debug\net8.0\ref\TEC_13_Secuencial.dll
