@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\TEC_08_Merge\bin\Debug\net8.0\TEC_08_Merge.exe
+C:\Users\lopez\source\repos\TEC_08_Merge\bin\Debug\net8.0\TEC_08_Merge.deps.json
+C:\Users\lopez\source\repos\TEC_08_Merge\bin\Debug\net8.0\TEC_08_Merge.runtimeconfig.json
+C:\Users\lopez\source\repos\TEC_08_Merge\bin\Debug\net8.0\TEC_08_Merge.dll
+C:\Users\lopez\source\repos\TEC_08_Merge\bin\Debug\net8.0\TEC_08_Merge.pdb
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.AssemblyInfo.cs
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.sourcelink.json
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.dll
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\refint\TEC_08_Merge.dll
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.pdb
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\TEC_08_Merge.genruntimeconfig.cache
+C:\Users\lopez\source\repos\TEC_08_Merge\obj\Debug\net8.0\ref\TEC_08_Merge.dll
